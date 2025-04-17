@@ -2,7 +2,7 @@
 
 A powerful utility for automatically generating visual thumbnail sheets from video files. This tool captures frames from throughout the video and arranges them in a clean grid layout with timestamp references, creating a visual index for video content.
 ## Example
-![https://github.com/PornFactory/video_sheet_generator/blob/main/SampleVideo_sheet.jpg?raw=true](https://github.com/PornFactory/video_sheet_generator/blob/main/SampleVideo_sheet.jpg?raw=true)
+![[https://github.com/PornFactory/video_sheet_generator/blob/main/SampleVideo_sheet.jpg?raw=true](https://github.com/PornFactory/video_sheet_generator/blob/main/SampleVideo_sheet.jpg?raw=true)](https://github.com/PornFactory/Video-Sheet-Generator/blob/main/SampleVideo_sheet.jpg?raw=true)
 ## Features
 
 - **Batch Processing**: Process an entire folder of videos with multi-threaded performance
